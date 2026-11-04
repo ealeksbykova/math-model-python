@@ -1,0 +1,15 @@
+# Зависимости для лабораторных работ по математическому моделированию.
+# Установка:  python3 -m pip install -r requirements.txt
+
+numpy>=1.21
+matplotlib>=3.4
+sympy>=1.9
+
+# Jupyter и исполнение ноутбуков
+ipykernel>=6.0
+nbformat>=5.1
+nbclient>=0.5
+jupyterlab>=3.0        # или: notebook>=6.4
+
+# Тесты
+pytest>=7.0
